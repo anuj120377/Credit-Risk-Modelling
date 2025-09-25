@@ -5,8 +5,11 @@ This project focuses on predicting credit risk for loan applicants using machine
 
 ### Project Overview - 
 -> Built multiple machine learning models (KNN, Logistic Regression, Decision Tree, Random Forest) to evaluate credit risk.
+
 -> Performed rigorous exploratory data analysis (EDA) on borrower demographics and loan attributes.
+
 -> Applied KNN Imputation for missing values and SMOTE for handling class imbalance.
+
 -> Achieved a best model accuracy of 93%.
 
 ### Steps Involved
