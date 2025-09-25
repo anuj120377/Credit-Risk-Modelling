@@ -31,7 +31,4 @@ This project focuses on predicting credit risk for loan applicants using machine
 -> Experiment with XGBoost / LightGBM for better performance on imbalanced datasets.
 -> Incorporate feature engineering with domain-specific financial ratios.
 -> Deploy as an interactive web app (Flask/Streamlit) for real-time risk assessment.
-
-Explore deep learning architectures (e.g., Autoencoders) for feature extraction and anomaly detection.
-
-💼 Business Applicat
+-> Explore deep learning architectures (e.g., Autoencoders) for feature extraction and anomaly detection.
