@@ -4,13 +4,7 @@ Credit Risk Modeling project to predict borrower default risk through detailed d
 This project focuses on predicting credit risk for loan applicants using machine learning techniques. With a dataset of over 32,000+ applicants, the aim is to help lenders assess the probability of default and make informed lending decisions.
 
 ### Project Overview - 
--> Built multiple machine learning models (KNN, Logistic Regression, Decision Tree, Random Forest) to evaluate credit risk.
-
--> Performed rigorous exploratory data analysis (EDA) on borrower demographics and loan attributes.
-
--> Applied KNN Imputation for missing values and SMOTE for handling class imbalance.
-
--> Achieved a best model accuracy of 93%.
+Built multiple machine learning models (KNN, Logistic Regression, Decision Tree, Random Forest) to evaluate credit risk, performed rigorous exploratory data analysis (EDA) on borrower demographics and loan attributes, applied KNN Imputation for missing values and SMOTE for handling class imbalance, achieved a best model accuracy of 93%.
 
 ### Steps Involved -
 -> Data Preprocessing.
